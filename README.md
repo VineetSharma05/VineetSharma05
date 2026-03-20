@@ -17,7 +17,7 @@
 
 ---
 
-## 🧠 About Me
+##  About Me
 
 ```python
 class VineetSharma:
@@ -27,7 +27,7 @@ class VineetSharma:
         self.location   = "India 🇮🇳"
         self.focus      = ["GenAI (RAG, LoRA, LLMs)", "Big Data Pipelines", "Computer Vision"]
         self.mantra     = "Building systems > just training models"
-        self.open_to    = ["GSoC 🚀", "AI/Data Collabs", "Hackathons", "Open Source"]
+        self.open_to    = ["GSoC", "AI/Data Collabs", "Hackathons", "Open Source"]
         self.contact    = "vineetsharma.dev@gmail.com"
 
     def current_mission(self):
@@ -114,11 +114,11 @@ A service that parses uploaded resumes, identifies key sections (skills, educati
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 <div align="center">
 
-### 💻 Languages
+### Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
@@ -126,7 +126,7 @@ A service that parses uploaded resumes, identifies key sections (skills, educati
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 
-### 🤖 AI / GenAI / ML
+### AI / GenAI / ML
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
@@ -134,14 +134,14 @@ A service that parses uploaded resumes, identifies key sections (skills, educati
 ![RAG](https://img.shields.io/badge/RAG-7c3aed?style=for-the-badge)
 ![LLMs](https://img.shields.io/badge/LLMs-0ea5e9?style=for-the-badge)
 
-### 📊 Data & Big Data
+### Data & Big Data
 ![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge)
 ![MapReduce](https://img.shields.io/badge/MapReduce-FF6B35?style=for-the-badge)
 
-### ⚙️ Frameworks & Tools
+### Frameworks & Tools
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
@@ -153,7 +153,7 @@ A service that parses uploaded resumes, identifies key sections (skills, educati
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <div align="center">
 
@@ -166,7 +166,7 @@ A service that parses uploaded resumes, identifies key sections (skills, educati
 
 ---
 
-## 🎯 What I'm After
+## What I'm After
 
 ```
 ┌─────────────────────────────────────────────────────────────┐
@@ -174,7 +174,7 @@ A service that parses uploaded resumes, identifies key sections (skills, educati
 │   🔬  Research-grade ML systems with production quality     │
 │   🌊  Real-time data pipelines that actually scale          │
 │   🧬  GenAI applications: RAG, LoRA fine-tuning, LLM ops    │
-│   🌍  Open Source contributions (GSoC aspirant 🚀)          │
+│   🌍  Open Source contributions                             │
 │   🤝  Hacakthon teams that ship, not just build             │
 │                                                             │
 └─────────────────────────────────────────────────────────────┘
@@ -184,7 +184,7 @@ A service that parses uploaded resumes, identifies key sections (skills, educati
 
 <div align="center">
 
-### 🤝 Let's Build Something Real
+### Let's Build Something Real
 
 *Open to collaborations in AI, Big Data, and backend systems.*
 
