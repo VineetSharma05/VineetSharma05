@@ -76,8 +76,8 @@
 ---
 
 ## 📫 Let’s Connect!
-📍 Chennai, Tamil Nadu, India  
-📥 vineet.sharma@example.com  
+📍 Bengaluru, Karanataka, India  
+📥 vineetsharma3481@gmail.com  
 🔗 https://www.linkedin.com/in/vineet-sharma-5a9320312/
 
 ---
