@@ -63,28 +63,6 @@ A production-grade distributed system where the entire Kafka topic lifecycle —
 </td>
 <td width="50%" valign="top">
 
-### 🟣 Amazon Bin Inventory AI
-**Computer Vision for warehouse reconciliation**
-
-Benchmarks deep learning (ResNet CNNs) vs. classical ML (SVM) for automated item counting in Amazon fulfillment center bins using the Amazon Bin Image Dataset.
-
-**Key Results:**
-- ✅ **54.6%** best validation accuracy (ResNet34 + SGD)
-- ✅ **RMSE: 1.12** lowest prediction error (ResNet34 + SGDR)
-- ✅ **75%+ better** accuracy than best SVM baseline
-- Transfer learning with ImageNet pre-training (ResNet18/34/50)
-
-[![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)](https://github.com/VineetSharma05/amazon-bin-inventory-ai)
-[![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)](https://github.com/VineetSharma05/amazon-bin-inventory-ai)
-[![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)](https://github.com/VineetSharma05/amazon-bin-inventory-ai)
-
-[**→ View Repository**](https://github.com/VineetSharma05/amazon-bin-inventory-ai)
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
 ### 🟢 Multi-Modal Emotion Recognition & Music Therapy
 **AI that understands how you feel — then heals**
 
