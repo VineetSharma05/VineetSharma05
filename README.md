@@ -16,20 +16,23 @@
 
 ---
 
-## 🧠 About Me
+## About Me
 
-```python
-class VineetSharma:
-    def __init__(self):
-        self.name     = "Vineet Anil Sharma"
-        self.role     = "Backend & ML Engineer"
-        self.location = "India 🇮🇳"
-        self.focus    = ["GenAI (RAG, LoRA, LLMs)", "Big Data Pipelines", "Computer Vision"]
-        self.mantra   = "Building systems > just training models"
-        self.open_to  = ["GSoC", "AI/Data Collabs", "Hackathons", "Open Source"]
+```bash
+$ cat vineet.config
 
-    def current_mission(self):
-        return "Engineering AI-driven, production-ready data systems at scale."
+  name        →  Vineet Anil Sharma
+  based_in    →  India 🇮🇳
+  role        →  Backend × ML Engineer
+
+  what_i_do   →  I don't just train models — I build the systems they run on.
+                 Kafka pipelines that don't sleep. CV models that ship.
+                 GenAI that actually works in production.
+
+  obsessed_with → [ RAG pipelines, LoRA fine-tuning, real-time data at scale ]
+  currently    →  Hunting GSoC · Breaking things at hackathons · Open Source
+
+$ _
 ```
 
 ---
