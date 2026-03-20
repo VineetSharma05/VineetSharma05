@@ -1,105 +1,127 @@
-<h1 align="center">Hi 👋 I'm Vineet Sharma</h1>
-<h3 align="center">🚀 AI/ML Engineer | Full-Stack Developer | Hackathon Winner</h3>
+<!-- 🔥 PREMIUM GITHUB PROFILE README -->
 
----
-
-## 🧠 About Me
-
-I’m a passionate Computer Science student at PES University, driven by building impactful AI solutions and scalable systems.
-
-- 🏆 Winner – Terrathon 4.0 (AI Smart Agriculture)
-- 🥇 SIH Junior 2023 Winner  
-- 👨‍💻 Club Head – NEXUS (200+ members)
-- 📊 Built systems used by 6000+ students  
-- 🤖 Working on AI-powered solutions (RAG, ML, automation)
-
----
-
-## 📍 Details
-
-- 🌏 Location: India  
-- 📧 Email: vineetsharma.dev@gmail.com *(edit if needed)*  
-- 🔗 LinkedIn: https://www.linkedin.com/in/vineet-sharma-5a9320312/  
-
----
-
-## 🚀 Current Focus
-
-- 🧠 Large Language Models & RAG Systems  
-- 🌐 Full Stack Development (React + Node)  
-- 📊 Data Analytics (Power BI, Tableau)  
-- ⚡ Building real-world AI products  
-
----
-
-## 🤝 Collaboration
-
-💡 Open to:
-- Hackathons  
-- Open Source (GSoC 🚀)  
-- AI/ML Projects  
-- Startup Ideas  
-
----
-
-# 🛠 Skills
-
-### 💻 Languages
-`Python` `C++` `JavaScript` `SQL`
-
-### ⚙️ Frameworks & Tools
-`React` `Node.js` `Flask` `TensorFlow` `Scikit-learn`
-
-### 🧠 AI/ML
-`Machine Learning` `Deep Learning` `RAG` `Ollama`  
-
-### ☁️ Cloud & DB
-`MySQL` `MongoDB` `Firebase`
-
----
-
-# 📊 GitHub Analytics
+<h1 align="center">Hey 👋 I'm Vineet Sharma</h1>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=VineetSharma05&show_icons=true&theme=tokyonight" />
-  <br>
-  <img src="https://streak-stats.demolab.com/?user=VineetSharma05&theme=tokyonight" />
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VineetSharma05&layout=compact&theme=tokyonight" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=3000&color=00F7FF&center=true&vCenter=true&width=800&lines=AI%2FML+Engineer;Hackathon+Winner+🏆;Full+Stack+Developer;Building+Impactful+Tech+🚀" />
 </p>
 
 ---
 
-# 🏆 Achievements
+## 🧠 Who Am I?
 
-- 🥇 Terrathon 4.0 Winner  
-- 🥇 SIH Junior 2023 Winner  
-- 📈 Led marketing campaign reaching 6100+ students  
-- 🎯 Organized national-level hackathon  
+🚀 I build **AI-powered real-world systems** — not just projects, but solutions.
+
+- 🏆 **Terrathon 4.0 Winner** – AI Smart Agriculture  
+- 🥇 **SIH Junior 2023 Winner**  
+- 👑 **Club Head – NEXUS (200+ members)**  
+- 📈 Impacted **6000+ students** through tech + marketing  
+- ⚡ Focus: **AI Systems, RAG, Scalable Backends**
 
 ---
 
-# 🔥 Highlight Projects
+## 🔥 What I’m Building Right Now
+
+- 🌾 **AI Farmer Assistant**
+  → crop prediction + disease detection + chatbot  
+- 🧠 **MediAI (RAG-based system)**
+  → personalized medical insights from reports  
+- 🤖 **LLM + Automation Systems**
+  → real-world intelligent workflows  
+
+---
+
+## 🛠 Tech Arsenal
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,cpp,js,react,nodejs,flask,mysql,mongodb,tensorflow,git,github,vscode" />
+</p>
+
+---
+
+## ⚡ GitHub Power Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=VineetSharma05&show_icons=true&theme=tokyonight&border_radius=10" />
+  <br><br>
+  <img src="https://streak-stats.demolab.com?user=VineetSharma05&theme=tokyonight&border_radius=10" />
+  <br><br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VineetSharma05&layout=compact&theme=tokyonight&border_radius=10" />
+</p>
+
+---
+
+## 🧬 Contribution Graph (Live)
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=VineetSharma05&theme=tokyo-night" />
+</p>
+
+---
+
+## 🏆 Achievements That Matter
+
+- 🥇 Built AI system for **real-world agriculture optimization**
+- 🧠 Developed **RAG chatbot for healthcare insights**
+- 🎯 Led **national-level hackathon + tech community**
+- 📊 Designed campaigns reaching **6000+ users**
+
+---
+
+## 🚀 Featured Work (REAL IMPACT)
 
 ### 🌾 AI Smart Agriculture System
-- Crop recommendation, disease detection, irrigation system
-- Integrated ML models + chatbot
-
-### 🧠 MediAI Chatbot
-- RAG-based medical assistant
-- Personalized responses from reports
-
-### 🚗 Car Dealership System
-- Admin-based full-stack system with MySQL backend
+✔ Crop Recommendation  
+✔ Disease Detection (ML)  
+✔ Smart Irrigation  
+✔ Price Prediction  
 
 ---
 
-# 📈 Profile Views
+### 🧠 MediAI (RAG + LLM)
+✔ Reads medical reports (PDF)  
+✔ Personalized health suggestions  
+✔ Hybrid AI system (retrieval + generative)
+
+---
+
+### 🏗 Nexus Tech Community
+✔ Built learning ecosystem  
+✔ Trained 100+ students  
+✔ Organized hackathons  
+
+---
+
+## 🤝 Let’s Build Together
+
+I’m open to:
+
+- 🚀 GSoC / Open Source  
+- 🤖 AI/ML Projects  
+- 💡 Startup Ideas  
+- 🏆 Hackathons  
+
+---
+
+## 📫 Reach Me
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=VineetSharma05&label=Profile%20Views&color=blue&style=for-the-badge" />
+  <a href="https://www.linkedin.com/in/vineet-sharma-5a9320312/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="mailto:vineetsharma3481@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail" />
+  </a>
 </p>
 
 ---
 
-<h3 align="center">⭐ Let’s build something impactful together</h3>
+## 🐍 Contribution Snake (because why not 🐐)
+
+<p align="center">
+  <img src="https://github.com/VineetSharma05/VineetSharma05/blob/output/github-contribution-grid-snake.svg" />
+</p>
+
+---
+
+<h3 align="center">⚡ I don’t just code — I build impact.</h3>
